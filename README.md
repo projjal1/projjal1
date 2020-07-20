@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**projjal1/projjal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hey passer by a note of thanks for spending some time to look into my profile:
 
 - 🔭 I’m currently working on Django, Spring Hibernate, Android (kotlin), ASP.NET, Python Scripting, OpenCV
 - 🌱 I’m currently learning Flask, Selenium, Big Data, Cyber Security, Data Science
