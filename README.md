@@ -11,4 +11,4 @@ Hey passer by a note of thanks for spending some time to look into my profile:
 - 😄 Pronouns: Coder, Self-reliant
 - ⚡ Fun fact: Blogger, Script Kiddy, Full Stack Beginner
 
-https://github-readme-stats.vercel.app/api?username=projjal1&&show_icons=true&theme=tokyonight
+<img src="https://github-readme-stats.vercel.app/api?username=projjal1&&show_icons=true&theme=tokyonight">
