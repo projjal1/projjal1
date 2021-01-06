@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikhyat187&label=Profile%20views&color=0e75b6&style=flat" alt="vikhyat187" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=projjal1&label=Profile%20views&color=0e75b6&style=flat" alt="Projjal Gop" /> </p>
 
 Hey passer by a note of thanks for spending some time to look into my profile:
 
