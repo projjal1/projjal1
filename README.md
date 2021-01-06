@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikhyat187&label=Profile%20views&color=0e75b6&style=flat" alt="vikhyat187" /> </p>
+
 Hey passer by a note of thanks for spending some time to look into my profile:
 
 - 🔭 I’m currently working on Django, Spring Hibernate, Android (kotlin), ASP.NET, Python Scripting, OpenCV
