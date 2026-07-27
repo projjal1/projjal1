@@ -5,10 +5,8 @@
 Hey passer by a note of thanks for spending some time to look into my profile:
 
 - 🔭 I’m currently working on use-cases around LLMs and GenAI.
-- 🌱 I’m a Full-Stack developer and also manage cloud resources in Azure.
-- 🤔 I’m brushing up my knowledge and skillset in Advanced Python with AI.
+- 🌱 I’m a Full-Stack developer and Cloud Architect.
+- 🤔 I’m brushing up my knowledge and implementing GEN AI use-cases.
 - 📫 How to reach me: Leave a email at projjal@outlook.com with a suitable title  
-- 😄 Pronouns: Coder, Indian, Hindustani
-- ⚡ Fun fact: Blogger, Full Stack, DevOps
-
-<img src="https://github-readme-stats.vercel.app/api?username=projjal1&&show_icons=true&theme=tokyonight">
+- 😄 Pronouns: Software engineer, Indian
+- ⚡ Fun fact: Full Stack developer, Cloud architect, GEN AI
